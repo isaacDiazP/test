@@ -1,5 +1,7 @@
-# archivo 1 de prueba
-if __name__ == "__main__":
+i = 0
+if i == 0:
     pass
+elif i > 0:
+    i = 1
 else:
     print()
