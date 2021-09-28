@@ -1,7 +1,8 @@
 x = 0
 if x == 0:
-    print("xxxxx es 0")
+
+    print("x es 0")
 elif x< 0:
-    print("xxxxx es negativo")
+    print("x es negativo")
 else:
-    print("xxxxx es positivo")
+    print("x es positivo")
